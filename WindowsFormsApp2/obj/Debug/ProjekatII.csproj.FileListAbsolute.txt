@@ -1,0 +1,3 @@
+D:\godina\Vestacka inteligencija\Projekat\Projekat II\projekat2\ProjekatII\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\godina\Vestacka inteligencija\Projekat\Projekat II\projekat2\ProjekatII\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\godina\Vestacka inteligencija\Projekat\Projekat II\projekat2\ProjekatII\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
